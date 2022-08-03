@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653173805 source:d:\amit\c programming & data structure\project_sol\projectc\main.c
+	"SimpleDb.h"
+
+1653174009 source:d:\amit\c programming & data structure\project_sol\projectc\simpledb.c
+	"SimpleDb.h"
+
+1653173805 d:\amit\c programming & data structure\project_sol\projectc\simpledb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
